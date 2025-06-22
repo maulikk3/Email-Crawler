@@ -43,12 +43,13 @@ An **Email Crawler** is a tool or script that automatically scans web pages to c
 
 ## 🧪 Example Output
 
-admission.educarebd@gmail.com/
-admissions@chitkara.edu.in/
-ajay.dhiman@chitkarauniversity.edu.in
-coe@chitkarauniversity.edu.in
-info@chitkarauniversity.edu.in
-rajesh.nepal@chitkara.edu.in
+Found emails:
+admission.educarebd@gmail.com  
+admissions@chitkara.edu.in  
+ajay.dhiman@chitkarauniversity.edu.in  
+coe@chitkarauniversity.edu.in  
+info@chitkarauniversity.edu.in  
+rajesh.nepal@chitkara.edu.in  
 wangdi@chitkara.edu.in
 
 
